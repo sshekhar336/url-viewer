@@ -1,4 +1,4 @@
-# Uday Assignment
+# Udayy Assignment
 
 ## To run on local:
 1. Download the zip folder of code or you can directly clone it using -> git clone https://github.com/sshekhar336/url-viewer.git
