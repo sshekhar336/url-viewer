@@ -1,7 +1,7 @@
-## Uday Assignment
+# Uday Assignment
 
-# To run on local:
-1. Download the zip folder.
+## To run on local:
+1. Download the zip folder of code or you can directly clone it using -> git clone https://github.com/sshekhar336/url-viewer.git
 2. Open command prompt ot terminal in the folder Udayy-assignment.
 3. Run "npm i" to install all dependencies.
 4. Run "npm start" to run the react app in browser.
